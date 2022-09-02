@@ -1,1 +1,1 @@
-Owner permission
+Owner permissions
