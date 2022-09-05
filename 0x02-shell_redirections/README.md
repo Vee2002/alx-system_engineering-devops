@@ -1,1 +1,1 @@
-duplicate lines
+Specific pattern
