@@ -1,1 +1,1 @@
-Contents of file
+First ten lines
