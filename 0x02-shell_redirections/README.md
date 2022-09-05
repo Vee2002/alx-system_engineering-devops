@@ -1,1 +1,1 @@
-Specific pattern
+Display similar words
