@@ -1,1 +1,1 @@
-List Environment variables
+dividing variables
